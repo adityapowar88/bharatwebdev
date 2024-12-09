@@ -91,6 +91,10 @@ nav {
   height: 100px;
   overflow-y: auto;
 } */
+#About .col-lg-6 h5 {
+  visibility: visible;
+  opacity: 1; /* Ensure elements are visible for animation */
+}
 
 @media only screen and (max-width: 992px) {
   #hero,
